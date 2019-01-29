@@ -1,0 +1,7 @@
+# Unnecessary folders
+errorShots/
+extensions/
+screenshots/
+
+# Node modules
+node_modules/
